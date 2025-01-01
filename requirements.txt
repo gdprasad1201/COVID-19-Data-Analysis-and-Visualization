@@ -1,0 +1,7 @@
+pyarrow
+pandas
+matplotlib
+numpy
+plotly
+wordcloud
+sklearn
